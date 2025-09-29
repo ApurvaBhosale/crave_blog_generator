@@ -2,3 +2,4 @@ streamlit
 hdbcli
 openai
 langchain_community
+langchain_openai
